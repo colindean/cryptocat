@@ -1,0 +1,55 @@
+ltr
+"Helvetica Neue", Helvetica, Arial, Verdana
+Privataj konversacioj por ĉiuj.
+Bonvenon al Cryptocat. Bonvolu legi ĉi tiun helpemajn konsileton: <ul><li>Cryptocat ne estas "magia kuglo". Neniam fidu ajnan programaron kun via vivo.</li><li class="key">Cryptocat ne povas protekti vin kontraŭ malfidindajn homojn, klavoprotokoligilojn, kaj ne anominiĝi vian interretkonekton.
+Blogo
+Kutima servilo
+Rekomencigo
+nomo de konversacio
+kaŝnomo
+konecti
+Tajpu nomon por via konversacio kaj doni ĝi kun homoj kun kiun via deziras paroli, aŭ membriĝu <strong>lobby</strong> renkonti novajn homojn!
+Tajpu nomon de konversacio membriĝi.
+Bonvolu tajpi nomo de konversacio.
+La nomo de konversacio devas esti litercifera.
+Bonvolu tajpi kaŝnomon.
+La kaŝnomo devas esti litercifera.
+Via kaŝnomo estas uzita jam. Bonvolu elekti alian kaŝnomon.
+Aŭtentokontrolo malsukcesegis.
+Konecto formortis.
+Dankon por uzado de Cryptocat.
+Registranta...
+Konektanta...
+Konektita.
+Bonvolu tajpi en via klavaro kiel hazarde kiel ebla dum malmultaj sekundoj.
+Generantajn ĉifroŝlosilojn...
+Konversacio kun grupo. Klaku uzanton por privata konversacio.
+Fingropremo de OTR (por privataj konversacioj):
+Grupkonversacia fingropremo:
+Rekomencigi mian ĉifroŝlosilojn
+Rekomencigado de viajn ĉifroŝlosilojn malkonektos vin. Viaj fingropremoj ŝanĝos ankaŭ.
+Daŭrigi
+Statuso: disponebla
+Statuso: fora
+Mia informaĵo
+Labortablaj sciigoj pri evento: ek
+Labortablaj sciigoj pri evento: for
+Aŭdebla sciigoj pri evento: ek
+Aŭdebla sciigoj pri evento: for
+Memori mian kaŝnomon
+Malmemori mian kaŝnomon
+Elsaluti
+Montri informaĵon
+Sendi ĉifrdosieron
+Rigardi bildon
+Elŝuti dosieron
+Konversacio
+Sole ZIP-aj doserioj kaj bildoj estas akceptita. Maksimuma dosiergrando: (SIZE) MB.
+Eraro: Bonvolu certigi ke vian dosieron estas ZIP-a dosiero aŭ bildo.
+Eraro: Dosierogrando ne povas superi (SIZE) MB.
+Komenci retbabiladon kun video
+Malkomenci retbabiladon kun video
+(NICKNAME) deziras retbabili kun video kun vi.
+Nuligi
+Forbari
+Malforbari
